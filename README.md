@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sangeet Sourav Sunderroy
 
-Welcome to my resume repository! This project contains my resume, built with LaTeX for maximum flexibility and beautiful typesetting.
+**[📄 View or Download My Resume (PDF)](./Sangeet_Sunderroy_Resume.pdf)**
+
+Welcome! This repository contains my latest resume in an easy-to-read format. Here you’ll find my background, education, work experience, and skills. Please feel free to review or download my resume. Thank you for your interest!
 
 ---
 
